@@ -1,0 +1,11 @@
+                                      All Concept of Node.js
+
+Initially Javascript only can run on client/browser . But now it can execute on laptop/computer/server etc only
+need to insitall software which is knows as node.js .
+
+👉👉👉  What is node.js ?
+
+1. Node.js allows us to run javascript on server(outside browser) .
+2. Open Source (Any version of it we can use according to project needs) .
+3. Free (don't require any charge for using) .
+4. Node.js uses asynchronous programming . (Basically can accept 2 request until first still processing) .
