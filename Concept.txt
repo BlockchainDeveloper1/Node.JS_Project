@@ -9,3 +9,14 @@ need to insitall software which is knows as node.js .
 2. Open Source (Any version of it we can use according to project needs) .
 3. Free (don't require any charge for using) .
 4. Node.js uses asynchronous programming . (Basically can accept 2 request until first still processing) .
+
+
+👉👉👉  What can node.js do ?
+
+1. Database/Db operations .
+2. File operations .
+3. Data processing etc .
+
+Basically now javascript can execute on server , client , computer , laptop  etc due node.js .
+
+
