@@ -20,3 +20,20 @@ need to insitall software which is knows as node.js .
 Basically now javascript can execute on server , client , computer , laptop  etc due node.js .
 
 
+👉👉👉  There are two ways we can use/work on node.js .
+
+1. Line by Line(Repl)
+2. File
+
+👉👉👉  Coding 
+Command to run node on system is node
+Common important commands
+👉 .break    Sometimes you get stuck, this gets you out
+👉 .clear    Alias for .break
+👉 .editor   Enter editor mode
+👉 .exit     Exit the REPL
+👉 .help     Print this help message
+👉 .load     Load JS from a file into the REPL session
+👉 .save     Save all evaluated commands in this REPL session to a file
+
+
