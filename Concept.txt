@@ -23,7 +23,7 @@ Basically now javascript can execute on server , client , computer , laptop  etc
 👉👉👉  There are two ways we can use/work on node.js .
 
 1. Line by Line(Repl)
-2. File
+2. File(To run code of file just have to give command as node filename);
 
 👉👉👉  Coding 
 Command to run node on system is node
@@ -35,5 +35,6 @@ Common important commands
 👉 .help     Print this help message
 👉 .load     Load JS from a file into the REPL session
 👉 .save     Save all evaluated commands in this REPL session to a file
+
 
 
