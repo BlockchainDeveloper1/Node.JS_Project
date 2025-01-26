@@ -45,6 +45,10 @@ we can also create our own module and can use it in our own project by import th
 Modules examples such as http, os, fs, express, nodemon, url etc.
 
 
+👉👉👉  How we can use/import module ?
+
+we can import using require function such as const variable = require('Modulename') this is how we 
+we can use any module.
 
 
 
