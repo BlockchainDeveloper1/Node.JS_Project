@@ -37,4 +37,15 @@ Common important commands
 👉 .save     Save all evaluated commands in this REPL session to a file
 
 
+👉👉👉  What are Modules?
+
+Modules simply are Libraries basically already written code(lots of people write lots of code
+which we have to use in our poject according to project need).
+we can also create our own module and can use it in our own project by import then.
+Modules examples such as http, os, fs, express, nodemon, url etc.
+
+
+
+
+
 
