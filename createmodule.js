@@ -1,5 +1,4 @@
-const findsum = (a , b ,c) => {
-    
+const findsum = (a , b ,c) => {   
 return (a + b + c);
 }
 

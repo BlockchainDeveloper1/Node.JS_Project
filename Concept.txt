@@ -64,5 +64,19 @@ const server = http.createServer((req , resp)=>{
 server.listen(3000 , ()=>{console.log("Server is running on port 👉 3000 ")});
 
 
+👉 Is time to create own module and use it let's understand it .
+1. Simple create a file name as createmodule.js here how we can create a module
+   const findsum = (a , b ,c) => {   
+   return (a + b + c);
+   }
+
+  module.exports = findsum;  //this is how we can export it and use where we want to use it.
+
+2. Create another file name as usemodule.js and here is simple code which uses our declared module.
+  const sum = require("./createmodule"); //Here we import our own module 
+  const Result = sum(12 , 3 ,1);
+  console.log( "Sum is here " + Result );
+
+
 
 
