@@ -1,5 +1,5 @@
-import findAvg from "./usemodule";
+const sum = require("./createmodule");
 
-const avg = findAvg(2, 3 , 5);
+const Result = sum(12 , 3 ,1);
 
-console.log(avg);
+console.log( "Sum is here " + Result );

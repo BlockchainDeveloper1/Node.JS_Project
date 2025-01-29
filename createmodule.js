@@ -1,6 +1,6 @@
-const findAvg = (a , b , c) =>{
-console.log("finding avg");
-return (a + b + c)/3;
-};
+const findsum = (a , b ,c) => {
+    
+return (a + b + c);
+}
 
-module.exports = findAvg;
+module.exports = findsum;
