@@ -78,5 +78,10 @@ server.listen(3000 , ()=>{console.log("Server is running on port 👉 3000 ")});
   console.log( "Sum is here " + Result );
 
 
+👉 File Operations using fs(file system) module in node.
+Such as 1. Read file , 2. Write file , 3. Append file , 4. Delete File .
+
+
+
 
 
